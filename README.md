@@ -9,7 +9,7 @@ Built using Godot 3.2.3
 Includes fully functional space shooter game, completing requirements stated in MSCH-C220 Space shooter project outline.
 
 ## References
-www.kenney.nl
+www.kenney.nl,
 https://commons.wikimedia.org/wiki/File:Rosette-Nebula-CPA.jpg
 
 ## Future Development
